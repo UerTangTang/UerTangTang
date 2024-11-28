@@ -6,7 +6,7 @@
 - 👀 目前处于爬走状态，你我共同进步
 - 🌱 一看就会，实战全废
 - 📫 爱说话，有空来一起交流
-- 👋 我的小家: [http://120.24.187.185:8090/](http://120.24.187.185:8090/)
+- 👋 我的小家: [http://yue.qsoding.cn/](http://yue.qsoding.cn/)
 - 💞️ 感谢Github开源社区
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,linux,bash,php,html,js,androidstudio,cpp,c,mysql,arduino)](https://skillicons.dev)
